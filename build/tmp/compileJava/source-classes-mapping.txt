@@ -1,0 +1,6 @@
+Main.java
+ Main
+ExampleComponent.java
+ ExampleComponent
+HeavyMultibindingModule.java
+ HeavyMultibindingModule
